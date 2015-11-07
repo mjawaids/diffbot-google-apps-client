@@ -1,7 +1,7 @@
 /**
 *	Google Apps Scripts Sample for DiffBot APIs
 *
-*	@author: Muhammad Jawaid Shamshad (jawaid@ibexoft.com | twitter.com/mjawaids | https://www.odesk.com/users/~0183c6e9ca72bf13c9)
+*	@author: Muhammad Jawaid Shamshad (mjawaid@gmail.com | twitter.com/mjawaids | https://www.upwork.com/freelancers/~0183c6e9ca72bf13c9)
 *	@version: 1.0
 */
 
